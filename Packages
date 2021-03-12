@@ -1,0 +1,13 @@
+Package: com.rpetrich.rocketbootstrap
+Name: RocketBootstrap
+Version: 0.0.3.4
+Architecture: iphoneos-arm
+Description: Support library to allow tweaks to communicate with their services from sandboxed app processes
+Maintainer: Paul B
+Author: R Petrich
+Section: Tweak
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.10_beta1.deb
+Size: 38344
+MD5sum: b52417e29631c59cdb267379e71e2a69
+SHA1: 5839FCE38B27E624AB5629D50FD543F30B473615
+SHA256: D06E18EEFBFCB40F3E3B215BFBCCAF34091FB30B2CCB1E4F6C519AA91D2B7248
